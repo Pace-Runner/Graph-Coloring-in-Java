@@ -1,11 +1,11 @@
 # Graph-Coloring-in-Java
 Graph coloring is the process of assigning colors (represented as integers) to vertices of a graph such that no two adjacent vertices share the same color. This program uses a greedy heuristic.
 
-⚙️ How It Works:  
+⚙️How It Works:  
 The program is split into three classes:  
-Program → Handles input, creates the graph, and runs the coloring algorithm.
-Graph → Stores vertices, edges, and handles the coloring logic.
-Vertex → Represents a node with adjacency and color information.
+Program - Handles input, creates the graph, and runs the coloring algorithm.
+Graph - Stores vertices, edges, and handles the coloring logic.
+Vertex - Represents a node with adjacency and color information.
 
 Algorithm Steps:  
 Read number of vertices.  
@@ -39,7 +39,7 @@ Example Output:
       3:0   
       4:1  
 
-🌍 Practical Uses of Graph Coloring:
+🌍Practical Uses of Graph Coloring:  
 Scheduling: Assigning non-conflicting time slots.  
 Register allocation: Optimizing CPU register use.  
 Map coloring: Distinguishing regions without overlap.  
