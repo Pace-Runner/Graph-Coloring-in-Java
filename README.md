@@ -20,18 +20,18 @@ Assign the smallest available color.
 Repeat until all vertices are colored.
 
 📥 Input Format
-First line: number of vertices n.
-Next lines: edges in the form from,to.
-End input with -1.
+First line: number of vertices n.  
+Next lines: edges in the form from,to.  
+End input with -1.  
 
 Example Input:  
-  5
-  0,1
-  0,2
-  1,2
-  1,3
-  3,4
-  -1
+    5  
+    0,1  
+    0,2  
+    1,2  
+    1,3  
+    3,4  
+    -1  
 
 Output Format:
 vertexNumber:color
