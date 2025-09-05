@@ -24,28 +24,28 @@ First line: number of vertices n.
 Next lines: edges in the form from,to.
 End input with -1.
 
-Example Input:
-5
-0,1
-0,2
-1,2
-1,3
-3,4
--1
+Example Input:  
+  5
+  0,1
+  0,2
+  1,2
+  1,3
+  3,4
+  -1
 
 Output Format:
 vertexNumber:color
 
-Example Output:
-0:0
-1:1
-2:2
-3:0
-4:1
+Example Output:  
+  0:0
+  1:1
+  2:2
+  3:0
+  4:1
 
 🌍 Practical Uses of Graph Coloring
 
-Scheduling: Assigning non-conflicting time slots.
-Register allocation: Optimizing CPU register use.
-Map coloring: Distinguishing regions without overlap.
-Network frequency assignment: Avoiding interference.
+Scheduling: Assigning non-conflicting time slots.  
+Register allocation: Optimizing CPU register use.  
+Map coloring: Distinguishing regions without overlap.  
+Network frequency assignment: Avoiding interference.  
